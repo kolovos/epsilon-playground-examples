@@ -1,3 +1,4 @@
+// Straight from the GitHub repo!
 // For every task in the model
 for (t in Task.all) {
 	// Print the title and the total person-months of the task
